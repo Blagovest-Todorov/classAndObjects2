@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\bin\Debug\netcoreapp3.1\03.ClassExamples.exe
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\bin\Debug\netcoreapp3.1\03.ClassExamples.deps.json
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\bin\Debug\netcoreapp3.1\03.ClassExamples.runtimeconfig.json
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\bin\Debug\netcoreapp3.1\03.ClassExamples.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\bin\Debug\netcoreapp3.1\03.ClassExamples.dll
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\bin\Debug\netcoreapp3.1\03.ClassExamples.pdb
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\obj\Debug\netcoreapp3.1\03.ClassExamples.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\obj\Debug\netcoreapp3.1\03.ClassExamples.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\obj\Debug\netcoreapp3.1\03.ClassExamples.AssemblyInfo.cs
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\obj\Debug\netcoreapp3.1\03.ClassExamples.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\obj\Debug\netcoreapp3.1\03.ClassExamples.dll
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\obj\Debug\netcoreapp3.1\03.ClassExamples.pdb
+C:\Users\Bla\source\repos\ClassAndObject\02.ClassExamples\obj\Debug\netcoreapp3.1\03.ClassExamples.genruntimeconfig.cache
