@@ -4,8 +4,16 @@ namespace _03.ClassExamples
 {
     class Program
     {
+
+        static void DoSomething()
+        {
+
+
+        }
         static void Main(string[] args)
         {
+
+            DoSomething();
             Console.WriteLine("Hello World!");
             Car car = new Car();
             car.Year = 1891;
@@ -17,13 +25,14 @@ namespace _03.ClassExamples
         //fileds, properties and methods can be instanced and static
         //object members -instance
         //Static //or class members -can not be made instance
-        //instatnce members are specific for each Object
+        //instance members are specific for each Object
         //static memebrs are common  for all instances of a class
-        
+
 
     }
     class Car
     {
+
         private ushort year;
         const int minYear = 1890;
 
@@ -31,9 +40,9 @@ namespace _03.ClassExamples
         {
             get
             {
-                return (ushort)(year - 10 ) ;
+                return (ushort)(year - 10);
             }
-            set 
+            set
             {
                 if (value < minYear)
                 {
@@ -41,12 +50,19 @@ namespace _03.ClassExamples
                 }
                 else
                 {
-                    year = value;     
+                    year = value;
                 }
 
             }
-        
         }
+        public static void Move()
+        {
+            //static methods can not use non static things 
+            Console.WriteLine("");
+        }
+
+        //static method is Console.ReadLine() //We have only one Console(not meny consoles)//for a Class 
+        //intance method is String.Length --differs for every string Object //for an Object
 
     }
 
