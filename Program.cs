@@ -62,6 +62,7 @@ namespace _03.ClassExamples
         }
 
         //static method is Console.ReadLine() //We have only one Console(not meny consoles)//for a Class 
+        //console is only one for every program, when we want to use it we dont create and we dont need an instance
         //intance method is String.Length --differs for every string Object //for an Object
 
     }
